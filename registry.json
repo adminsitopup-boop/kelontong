@@ -1,0 +1,33 @@
+{
+    "schema": "klontong-license-registry/1",
+    "generated_at": 1789465184,
+    "licenses": [
+        {
+            "id": "LIC-DEMO-001",
+            "key_hash": "sha256:61d070ae4c81fbe959d9f43e0993b1c6018bcc6e1f284e094afc930aac3c39c0",
+            "customer": "Contoh Toko Demo",
+            "type": "yearly",
+            "status": "active",
+            "issued_at": 1789465184,
+            "expires_at": 1818539999,
+            "max_activations": 1,
+            "binding": {
+                "mode": "any",
+                "device_fingerprint": "",
+                "domains": [
+                    "localhost"
+                ]
+            },
+            "features": {
+                "product_import": true,
+                "multi_branch": true,
+                "debts_receivables": true,
+                "export_reports": true,
+                "audit_log": true,
+                "cash_drawer": true
+            },
+            "note": ""
+        }
+    ],
+    "signature": "vbEmXWs1tM9iQl7J4T0Jw6B9kc7MG3kmnUMjeBwDOA9Cb/R1BrJIZ0WQY/zLgE2wj0RVO9bsV2LigVr+W6kZfc/5MiJL6IgqT8vpZy+TUv1Uky1x6EVO+vvZ7ypagzG9xnOn/6o7wXAbIjEhqYtQSjd/QNw5EM+1urVJ8+Z0/lh3U90VPLSFKynrObf3/P69YnoC3fSjsPt/wb/+1Alvag9n++afKplZ4p+CGRpjZGBKYHsop3VaHZWJVu6CmBqtsEgqOoykvBimv0ZQsPZf5ISK7Azo6xhIWOfCqyYPP/4ZcfyyYqd/wyCeKAj3Gcbs/qkh1NNF69erBiwYI7pmvQ=="
+}
