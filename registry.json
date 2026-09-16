@@ -12,5 +12,44 @@
         ],
         "issued_at": "2026-09-15T10:25:19+00:00",
         "signature": "QvJX9z7SUZKNcbWk7P1S1wBfGAzLt16UJUQ2LZAr3K5aAtarl1TZ2TwGmmIaSBbfTCv6eYLQHhR7rIm4t1cnACHQsXxB9UP3lvbOenoQhOKONs8kAQ/BECmpVbTwvvvQiAWncWsNZzFkk4ikVKz+NDyMMpHv3UfU9yqz5BkGTX8hSgS3JTEgu9Eyd/bYD5m1D4cQYiJb9IS4RyNo3PuyQCKtaQLgnKZseAnjdFpxnjjFYinMX6p/0DzXQid8FnO7qFMzKQxc1/pukfKc9yIpc1n9QQ3MB6zThC7SH/XIiSWFl40UAncsbcNIvDAD75KXkcsbO5JsiAv1WVgH78QKCg=="
+    },
+    "INV-PRO-F898-C650-1EE0": {
+        "client": "PT Maju Gemilang",
+        "status": "active",
+        "allowed_domains": [
+            "localhost"
+        ],
+        "expires_at": null,
+        "features": [
+            "all"
+        ],
+        "issued_at": "2026-09-15T11:57:54+00:00",
+        "signature": "0RDSGBgg+wlNQcHrIIJztn6MumBbHlTDlnVYcUXbyj2hcN7xMJarSDJsifJz3bEIkzpHl0+pFUFAZcxTBH9rZKjQQFlTy0Q2dWoTCT3x6481mIkVtE0IJcDZZIvWThfXHwvGdil+0tyIgJgZnQuJCo6a75HVny4E+7aj7dtGzDza1kJ1SOg+95PyOr9xP1o533e/NLcJM7PTnYtuq5j5V2NgXWAD+OflNTnlLjWWQacA/DILwc0mSjebMnF4hf7S2dUTg7ml9BH8SNhcgZtyuYNhk1SU7cHrbtAfs7STNz6gTFrs8NdxzNh+pw7D7Oyr9VQp8NUKU+Udh4ZljkRqDg=="
+    },
+    "INV-STD-3B47-AD85-672D": {
+        "client": "Toko B",
+        "status": "active",
+        "allowed_domains": [
+            "localhost"
+        ],
+        "expires_at": "2026-10-16T23:59:59+07:00",
+        "features": [
+            "all"
+        ],
+        "issued_at": "2026-09-16T07:40:27+00:00",
+        "signature": "WlsHi16dRkQXMT0kERv67L8zp+aquCMmMmPvUnlSTKlxodekaCBhB3UZxRfz+IJYJ1Ggvlj6B+BgexXSMDWu0+OOZX870O7OrDux4LyCyDE8nuUY98jcgWJOXBkJzekfFGTZCsnYMROu8jfZ2B/AQmbtscrT+/sDGgKT2aw5+bwUDVsKP281KcgrFsR5Q7F23g71EDIdoKmGmtrKS5x4hGLWOlGXD00eSkzItw347p3Q2QrUK03t9d/9XOwdCidlkq7OSMxePsVfG7jQtO+L5j1rO//93KZPILddm2//hWF5U3jHauhqeb7tnFwxNxeYjfIf94uzrtR4G7V+aAEsQQ=="
+    },
+    "INV-DEMO-3DB4-9869-8D71": {
+        "client": "Toko A",
+        "status": "active",
+        "allowed_domains": [
+            "localhost"
+        ],
+        "expires_at": "2026-09-23T23:59:59+07:00",
+        "features": [
+            "all"
+        ],
+        "issued_at": "2026-09-16T07:50:32+00:00",
+        "signature": "Ftl4EcIWtx+iFl0l+uMD5vX2LL9xlG4cVoxf3RcFtNzW2vXEinEWWksj0ZNBO6gtBx62/PRR6Y1PQb9A5vLTJR2ZxeBRf9hJQUf4zz2JbX//6Ftq2GX025mSFNOKndddq2J8GkZpJsQh2iCpyA1oojxEwsBTP/clbuCqgzzd3iyTEabN1PChsVfj6JSYg5QGNG7TCFyvSCcJuDSzjwNXpqaCOZQEDcCRoKYweRHZY+Sy7IUbaC5RcqUIZ+l8QNrIWAf60HKvalUHPPvsXFn5HkUxtayooFKUahAKnAT7/64F0AI3REUzr15nTa+VBqpSZJp8vI0dilM5V51Y67vpnA=="
     }
 }
