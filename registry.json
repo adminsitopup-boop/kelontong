@@ -93,5 +93,18 @@
         "issued_at": "2026-09-23T16:15:39+00:00",
         "device_fingerprint": "<927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a>",
         "signature": "f6Xa3WZ9ZKUjlOmN08OkqQE0DGp3aspwQw7rand0T9EAyV20gRCmzjYOEoPjaLBLHbTAGRd7EftX3+vdaaq5IKOt9UPepUWSxQuWpHucnNqyAWnvK3Z9tsX35rQQX8iJMeQLZ3ck3i5qKCIJrJ0Y6A790OPCZPf4MydHP4BjvpaArNRP86hSBuk01Niefc6qi3w7oE9X0idPRisL921hjXyFNJHF5+BfTp7TM6VT8RWCH+8a6setIBVw3M7iWBg0lUOBtMuemsrm3XMdWtISb6FyMjjjx+Ll869otWpy3OfbmAcBzYTycLZLQkgaci72Vhmj/wticMBSC76m1QoIBg=="
+    },
+    "INV-STD-27BA-4D91-B0BD": {
+        "client": "Toko Malique",
+        "status": "active",
+        "allowed_domains": [
+            "localhost"
+        ],
+        "expires_at": "2026-10-23T23:59:59+07:00",
+        "features": [
+            "all"
+        ],
+        "issued_at": "2026-09-23T16:46:51+00:00",
+        "signature": "cfKOdcTuDbTheXxGXj+rPuRN3ulzUyoGDdTYkERxLJYu0kcKUYjyRJDlXN6GRw5pAlhueRlAjzlaW4BPoxdU7xOd22L9NAWL9l4rhZN8+89TP3LieR0requWbaULqYFbgjDvVN4M5mn3PSe03RQaZATLghuZjInEQ5560eAdy83+efHB8+cckW2Z6ReexFJyDpN/0RdxhVQY40FIEpqyGn31l4xCRIKzmcV3AD2YhNH7jsE9m/MOSCkE2K+0lW+L7UvLG5AgDfAxUnUgEFMJGcWUPM3dOiV94NPhMf/sXAR9/FKrYSjk+GPPk6TPekgwx8lNv7S2zWemXL+aN2dIvw=="
     }
 }
