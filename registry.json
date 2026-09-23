@@ -51,5 +51,19 @@
         ],
         "issued_at": "2026-09-16T07:50:32+00:00",
         "signature": "Ftl4EcIWtx+iFl0l+uMD5vX2LL9xlG4cVoxf3RcFtNzW2vXEinEWWksj0ZNBO6gtBx62/PRR6Y1PQb9A5vLTJR2ZxeBRf9hJQUf4zz2JbX//6Ftq2GX025mSFNOKndddq2J8GkZpJsQh2iCpyA1oojxEwsBTP/clbuCqgzzd3iyTEabN1PChsVfj6JSYg5QGNG7TCFyvSCcJuDSzjwNXpqaCOZQEDcCRoKYweRHZY+Sy7IUbaC5RcqUIZ+l8QNrIWAf60HKvalUHPPvsXFn5HkUxtayooFKUahAKnAT7/64F0AI3REUzr15nTa+VBqpSZJp8vI0dilM5V51Y67vpnA=="
+    },
+    "INV-PRO-C4BB-A0B8-C3A4": {
+        "client": "Toko Maju",
+        "status": "active",
+        "allowed_domains": [
+            "localhost"
+        ],
+        "expires_at": null,
+        "features": [
+            "all"
+        ],
+        "issued_at": "2026-09-23T15:30:19+00:00",
+        "device_fingerprint": "<927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a>",
+        "signature": "hSgtDsj2HlBtpQaomWHO59uKmHTVOFX3WABJSJegljYQrfK/DQ4FL1wxohqofwSgJPnV3KVW+4u+yzr3AAHZHN/8zoGsMBOSrAoZVNQJRgoLcdycL2T2CTPZYBVWj3FAK8o2kxlmLDFmeO38qlg74ah005tPHJEHf/enoV22MpSLjfgME0W8V9DUYl+ln0+magCL1h6AZhqpj0VJVYhvu5D66rPGC/AH4C2pjmOBDoKnSv0WbO8bBKdCJCf4x/Y5mA8jJxmbRQ+onqye3Qpc/c6xIPz/tNX24WrTcmMnAvcOIf6N5uy1KxwIcrTayC8Xqf5HnLqxGVQYHlQGO/OVcA=="
     }
 }
