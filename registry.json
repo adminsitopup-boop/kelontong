@@ -65,5 +65,33 @@
         "issued_at": "2026-09-23T15:30:19+00:00",
         "device_fingerprint": "<927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a>",
         "signature": "hSgtDsj2HlBtpQaomWHO59uKmHTVOFX3WABJSJegljYQrfK/DQ4FL1wxohqofwSgJPnV3KVW+4u+yzr3AAHZHN/8zoGsMBOSrAoZVNQJRgoLcdycL2T2CTPZYBVWj3FAK8o2kxlmLDFmeO38qlg74ah005tPHJEHf/enoV22MpSLjfgME0W8V9DUYl+ln0+magCL1h6AZhqpj0VJVYhvu5D66rPGC/AH4C2pjmOBDoKnSv0WbO8bBKdCJCf4x/Y5mA8jJxmbRQ+onqye3Qpc/c6xIPz/tNX24WrTcmMnAvcOIf6N5uy1KxwIcrTayC8Xqf5HnLqxGVQYHlQGO/OVcA=="
+    },
+    "INV-PRO-2F96-BAC8-8E4E": {
+        "client": "Toko Maju",
+        "status": "active",
+        "allowed_domains": [
+            "localhost"
+        ],
+        "expires_at": null,
+        "features": [
+            "all"
+        ],
+        "issued_at": "2026-09-23T16:15:19+00:00",
+        "device_fingerprint": "<927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a>",
+        "signature": "3rwxPser3IkreEoU64QKc16ztWlPG7E7oC1yVMy6yD3U8Eiq3uyzVZU14QOguNmc6VxMsL6AwpYgCxPsDZ65erZBwOoeauQEOeBtOBucLgYl/P2LXA/RF6rEY6/d82yhg3i8RisD+pJ0NNopbzWTDfp0knd/rNNWgcOZxKWDtHR6w0+t7ya/oahFhXde5UXSVtOK9v4v/q2jM4kjYZGdVtVxqLzGI652rpy7wyrbFouzS6cwEr376an7M7djuDkchy20Z47qNFgaQUYfSBFHhtqqfxp+XSWIBra9yNu6zcNM34/W47mSpW5i85daVXEyffSYVFjTNRKtceeznJ/QtA=="
+    },
+    "INV-PRO-2C00-42D9-2063": {
+        "client": "Toko Wak Minol",
+        "status": "active",
+        "allowed_domains": [
+            "localhost"
+        ],
+        "expires_at": null,
+        "features": [
+            "all"
+        ],
+        "issued_at": "2026-09-23T16:15:39+00:00",
+        "device_fingerprint": "<927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a>",
+        "signature": "f6Xa3WZ9ZKUjlOmN08OkqQE0DGp3aspwQw7rand0T9EAyV20gRCmzjYOEoPjaLBLHbTAGRd7EftX3+vdaaq5IKOt9UPepUWSxQuWpHucnNqyAWnvK3Z9tsX35rQQX8iJMeQLZ3ck3i5qKCIJrJ0Y6A790OPCZPf4MydHP4BjvpaArNRP86hSBuk01Niefc6qi3w7oE9X0idPRisL921hjXyFNJHF5+BfTp7TM6VT8RWCH+8a6setIBVw3M7iWBg0lUOBtMuemsrm3XMdWtISb6FyMjjjx+Ll869otWpy3OfbmAcBzYTycLZLQkgaci72Vhmj/wticMBSC76m1QoIBg=="
     }
 }
