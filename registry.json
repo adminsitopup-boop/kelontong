@@ -63,8 +63,8 @@
             "all"
         ],
         "issued_at": "2026-09-23T15:30:19+00:00",
-        "device_fingerprint": "<927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a>",
-        "signature": "hSgtDsj2HlBtpQaomWHO59uKmHTVOFX3WABJSJegljYQrfK/DQ4FL1wxohqofwSgJPnV3KVW+4u+yzr3AAHZHN/8zoGsMBOSrAoZVNQJRgoLcdycL2T2CTPZYBVWj3FAK8o2kxlmLDFmeO38qlg74ah005tPHJEHf/enoV22MpSLjfgME0W8V9DUYl+ln0+magCL1h6AZhqpj0VJVYhvu5D66rPGC/AH4C2pjmOBDoKnSv0WbO8bBKdCJCf4x/Y5mA8jJxmbRQ+onqye3Qpc/c6xIPz/tNX24WrTcmMnAvcOIf6N5uy1KxwIcrTayC8Xqf5HnLqxGVQYHlQGO/OVcA=="
+        "device_fingerprint": "927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a",
+        "signature": "lXavSdVJu5iBGOVfEp4L6qQnwhX14mLS7dY6qA8qNX/LT72VC793TOfYHp6VjGuDKjA2oh6ZXl0kDW6icqrHLz8PWCDMxOPtzytgY9OwufWznYDml8FPNQlLXswKOof0Zf0A0CJOZuq5oZWxZlM3prHxJSQtmn05ub3iafhBoxgTWXj5RwShgZAHXMe/ghnNGDKxPNVkLRI9HyfRfVFSMVGTtN3XtzjDI38xKpbQ99GYTmt9s/7rVYB9LXVrsG1w9nDp5NtkdDI61GsGG4bmIgRENpwpy0QTz8WIJ+kU2LXj9rqM82nGSpLO6sH+1DAZIeHNAgqZzToq+j+q7+bjcA=="
     },
     "INV-PRO-2F96-BAC8-8E4E": {
         "client": "Toko Maju",
@@ -77,8 +77,8 @@
             "all"
         ],
         "issued_at": "2026-09-23T16:15:19+00:00",
-        "device_fingerprint": "<927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a>",
-        "signature": "3rwxPser3IkreEoU64QKc16ztWlPG7E7oC1yVMy6yD3U8Eiq3uyzVZU14QOguNmc6VxMsL6AwpYgCxPsDZ65erZBwOoeauQEOeBtOBucLgYl/P2LXA/RF6rEY6/d82yhg3i8RisD+pJ0NNopbzWTDfp0knd/rNNWgcOZxKWDtHR6w0+t7ya/oahFhXde5UXSVtOK9v4v/q2jM4kjYZGdVtVxqLzGI652rpy7wyrbFouzS6cwEr376an7M7djuDkchy20Z47qNFgaQUYfSBFHhtqqfxp+XSWIBra9yNu6zcNM34/W47mSpW5i85daVXEyffSYVFjTNRKtceeznJ/QtA=="
+        "device_fingerprint": "927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a",
+        "signature": "Eq3BfHrDuMFlJ/56egVSiGT4PPuQMF103ZAsXFRRU1HmgJf96AROEmCJ4KzdJ5LokMlZ/hk4Asse/TpM2Sr5ijPRygW13YyOnupDUJED+7kdP4KHroXZAlw27Wq2svXPIDsac8jP81M6YLsaoJlpDkSMoTw8qLa9b2f5BTb80rsNbrhGzNSvU5P0SOw3xivJPeAjZ+hMJdKVAvKy6IhGgOSQTW72zl3Bn4Txtq8BedEl0ITwtaMh69FkmwyiK3trNhHzpSf7kZSjUEdcLxyGupIkJFNme069LaiO7AAWVNr1vC5QYBe3FUazKdZTvFRiw9NGQ4M1LejAkGqAEmIGYg=="
     },
     "INV-PRO-2C00-42D9-2063": {
         "client": "Toko Wak Minol",
@@ -91,8 +91,8 @@
             "all"
         ],
         "issued_at": "2026-09-23T16:15:39+00:00",
-        "device_fingerprint": "<927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a>",
-        "signature": "f6Xa3WZ9ZKUjlOmN08OkqQE0DGp3aspwQw7rand0T9EAyV20gRCmzjYOEoPjaLBLHbTAGRd7EftX3+vdaaq5IKOt9UPepUWSxQuWpHucnNqyAWnvK3Z9tsX35rQQX8iJMeQLZ3ck3i5qKCIJrJ0Y6A790OPCZPf4MydHP4BjvpaArNRP86hSBuk01Niefc6qi3w7oE9X0idPRisL921hjXyFNJHF5+BfTp7TM6VT8RWCH+8a6setIBVw3M7iWBg0lUOBtMuemsrm3XMdWtISb6FyMjjjx+Ll869otWpy3OfbmAcBzYTycLZLQkgaci72Vhmj/wticMBSC76m1QoIBg=="
+        "device_fingerprint": "927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a",
+        "signature": "lZiNR+uqCNrmF8jpSYE6Gif+S4WVDn3PrSJAciXpCINmw0fxvaaLbFc9Fe5My5UcfSd5xZKjOUfRsmR8h906R3Vm8W2y+bepgOpQMzFcyXNpXFeUJrYkWLblfbDm16oz5tZnIjHb85wQYwtFOVTiXFrjKZuoT86dAgpAW2/JWzFi44MKTMCMZqX0umUJw8EZryic6lwvxliOBvcz29af+WS/hH54bAhL4mqxjTtHnU+fDcjsjrwmDs61h2Q7/HpE0XKEhQxIW9uk7Q5B+5ofFE4UdeE8j7DN4IKcsgEAQo4scVy17yzyPo9gGS9C5CX9YFE4UBuif1CWGVEeGBAXKA=="
     },
     "INV-STD-27BA-4D91-B0BD": {
         "client": "Toko Malique",
@@ -118,8 +118,8 @@
             "all"
         ],
         "issued_at": "2026-09-23T16:58:27+00:00",
-        "device_fingerprint": "<927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a>--days=30",
-        "signature": "BWLbX8pfoNQdCGYebOPorn4quYqYtwpD/Iy4yz5eMz5EE9OUt6WvZmznqYSqK3RGJ7GL1BKF/Dt6Zmnrk1nfisMuqU91za32FzSIxWhk9PzqaYfZnZHb9hSpRKfqm1zK3PpN6o3962sJm79RIcsRri0k2Gr6Rvp8DL5LQ1Iq5PyFIZcdZW5GEyd9A5tGNI8kZ/1ENK6itbyKHlGCsCGdBkJM5y3NZ+uEy2aN4o88d1S5SsfsQcSipBy3Kl34S5QdhtyKWR6II9BJyz5rxjfUyKEEG+uKaBjbslv8/rzxUa3z4HriT3roz9bGAk3qZKtgj519AuZB5jb/2mOFVsblZg=="
+        "device_fingerprint": "927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a",
+        "signature": "FdtkRo29qER4dXZd1wA06imL1wQQTyI1k/4HfM3GyVksuzOykUW2dwvcc8z09bhLq9PCMpv/0TMdOy6zjFrpobYdcM0MTKNHyUKnzufkDT5f5GQmHMcbMAnNgRNmRhTbJ/VyFZZDIt00wfpAQxFnmOwyCMYzYz7GGcyOCs1Q5c6THQcHtv613HuxLDrVdU+kkWfw9yQCG+H0St27l5upsL2fghCilPx9RJKBaBo9waA8SOyWeSQKSF/XJeK7X9Je17BCBTLxH7lVx+U7c1WX4QPvPyl2Rdsj/Ozudix/hrGOpEdifAJBbp5X7HGKQE98Q/q32w0Rl31F2ejpaDrMKQ=="
     },
     "INV-STD-7A11-D291-04D6": {
         "client": "Toko B",
@@ -132,8 +132,8 @@
             "all"
         ],
         "issued_at": "2026-09-23T17:00:35+00:00",
-        "device_fingerprint": "<927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a>",
-        "signature": "RokJwOwTScNkkIqjGd+GydhWvUFKhJbxuuyAo6dXEsFIg15RPOKFjiYkLMnZSenwYqms4+hRaBZJBWriPOtClCQm9qJSXOb9TzAS6pyMDG4efNvli1HLYPlQ7BUzKRzd/aLXePmSYw88KJSsCimggCgJwMFsxxMwthQvbFQD/XwRj/uz21h+jGiJf27KL9XAluBJsm8rvAFBZc84+tsNeQoiKgUJnkqKAX1yzKyawaz9JDUM/BC4CJmOXJCo1kL6HYsiMfdaUYJNCRuBbS2Lh49N5GNc9owrkSAzXnh7B1ZN8cbTKXDUlCL/GTjcUGVZovGmu0S0HYUB1frlQL1JQw=="
+        "device_fingerprint": "927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a",
+        "signature": "5NDqXSUlkQzb0mGVnJM1igQ3gb56/pd2WG+hhGKblz9vGmOiZXvl4UGFJhcdhubYgrOE/CHVJgLwHYh5NumiopjVqWV2MvR1TnxIxq74LnYMcLKXrRDfjy+yJ0RO95RI2sLiTYyy6zGeuKcJF7p88px/6MmM1P4QzEqVQBNgNSwe84DvY2BA5BA4TIvymAvT1ADzkAP2GNZ3+HxZnJxMcYFKp04Kwq4dw8O20cDuEoCY0qnptkDE6xttWc7sbpmasx4FfOXg3T5arXXNOQZW0u6dzbpvIzUM4bzVhiX9h7MIL0PT1ADMuIcFO37dEwmsWGeYlUpgp9R8W2F8NsE/AA=="
     },
     "INV-STD-8E87-0E0C-7946": {
         "client": "Toko B",
@@ -146,7 +146,21 @@
             "all"
         ],
         "issued_at": "2026-09-24T06:34:27+00:00",
-        "device_fingerprint": "<927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a>",
-        "signature": "DX5jzd9dhlsnvoW4sK14dXmac9myb3JuhEDB6pFR2x8uaS9buRIUyPkYXhtRfz1ypNzfnKztOS32JOVY8NRPeNYqXuILdI2LhX+DCXfbxJtJeDQu7qVvdeLlvHgPbSkdU9MhVAyzaM+vwWB5K+Ez9QjuCXn3nASNlqlzjN4I7oSoPfIjhFqA7cKJelDRK/DzlG7ikuxQDFZEr/Err1n2rtludMQ3YMUpCqKqYhgoyhxwgJFKaiO6c5RXy76z/6chthodo5JuSYZVWg4EtiVRH1xoVpWAjH7dUJVyjYqVd/ph+80erZgVRBw39MGQTsNbo5LeUsrxMR16gK6WZUAeKQ=="
+        "device_fingerprint": "927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a",
+        "signature": "YHDoCu2PaLPoEoZiGpkWd8D5BqLT1ZFsFVdeaBwiB1eMXJvhlEpPthVQhpKCFN7VFkZ65XcTHfmWLf33a+lQbdE4ROn9Y6TdHdkhoYNiZmZWi0rXk5qXxqNCYCnQ3In7kpFiZtTy45LAhGZNz+uocKEyiNqU97DKPgDg29FzTiRJ6OeKL40mbc3Z1MpoG5u0ue3q96AnKwBBK9gflP4+3VmcTm6t/TsyrzRAlQLldllPUh/Kr7mw0oPYQFfWPkVSA9nzmgSoAGNRMpU0QIzHe8kFX73u9uJDrYdV1jNwRuXlRN/EsDSZZVLC0MUITW2aMv96QPhvImS6sT22nog08A=="
+    },
+    "INV-STD-9B58-B2D6-0B78": {
+        "client": "Toko B",
+        "status": "active",
+        "allowed_domains": [
+            "localhost"
+        ],
+        "expires_at": "2026-10-24T23:59:59+07:00",
+        "features": [
+            "all"
+        ],
+        "issued_at": "2026-09-24T07:21:21+00:00",
+        "device_fingerprint": "927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a",
+        "signature": "D7bVTKs8o9WylkTDBOM5e/hazfiSDG3++wleYmRLR24SIJe+MAXBWtdtn57WPmD4fJxYNyr14tmtBZpm+nYLq4AQdJjkfqZBn+EUfYGSMMiwF6nz63eO1CH4ezo6yG7Rls7LKcUeuXXpcRmK4/Dc9CFPteEDDZX5BDbHKZH0Egm3JXJTCBRS+iRgquIB6OpnmHj8WHivoO4rAR/1MiYRqonDImUTN+jsOSXgQalfXM2S5Mqf6gpFBBA94xmcp8IOU6sU/XIeA21j+iyazI5VV8rHB1xiD2DpxtDaARyhwx7W6N+LqJOgwllaDm+BxHKvuRHtaJcnD64FCdpfUR8Fmw=="
     }
 }
