@@ -134,5 +134,19 @@
         "issued_at": "2026-09-23T17:00:35+00:00",
         "device_fingerprint": "<927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a>",
         "signature": "RokJwOwTScNkkIqjGd+GydhWvUFKhJbxuuyAo6dXEsFIg15RPOKFjiYkLMnZSenwYqms4+hRaBZJBWriPOtClCQm9qJSXOb9TzAS6pyMDG4efNvli1HLYPlQ7BUzKRzd/aLXePmSYw88KJSsCimggCgJwMFsxxMwthQvbFQD/XwRj/uz21h+jGiJf27KL9XAluBJsm8rvAFBZc84+tsNeQoiKgUJnkqKAX1yzKyawaz9JDUM/BC4CJmOXJCo1kL6HYsiMfdaUYJNCRuBbS2Lh49N5GNc9owrkSAzXnh7B1ZN8cbTKXDUlCL/GTjcUGVZovGmu0S0HYUB1frlQL1JQw=="
+    },
+    "INV-STD-8E87-0E0C-7946": {
+        "client": "Toko B",
+        "status": "active",
+        "allowed_domains": [
+            "localhost"
+        ],
+        "expires_at": "2026-10-24T23:59:59+07:00",
+        "features": [
+            "all"
+        ],
+        "issued_at": "2026-09-24T06:34:27+00:00",
+        "device_fingerprint": "<927dcf91be949da46fc9b1e9fff6d47e497fe469b6158e823ed5c218c59d027a>",
+        "signature": "DX5jzd9dhlsnvoW4sK14dXmac9myb3JuhEDB6pFR2x8uaS9buRIUyPkYXhtRfz1ypNzfnKztOS32JOVY8NRPeNYqXuILdI2LhX+DCXfbxJtJeDQu7qVvdeLlvHgPbSkdU9MhVAyzaM+vwWB5K+Ez9QjuCXn3nASNlqlzjN4I7oSoPfIjhFqA7cKJelDRK/DzlG7ikuxQDFZEr/Err1n2rtludMQ3YMUpCqKqYhgoyhxwgJFKaiO6c5RXy76z/6chthodo5JuSYZVWg4EtiVRH1xoVpWAjH7dUJVyjYqVd/ph+80erZgVRBw39MGQTsNbo5LeUsrxMR16gK6WZUAeKQ=="
     }
 }
